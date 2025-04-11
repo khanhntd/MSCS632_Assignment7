@@ -1,8 +1,8 @@
 # MSCS632_Assignment7
 ## Setup
 - **Step 1:** Download python https://www.python.org/downloads/
-- **Step 2:** Download C
-- **Step 3:** Download OCaml
+- **Step 2:** Download C https://gcc.gnu.org/install/download.html
+- **Step 3:** Download OCaml https://ocaml.org/install#linux_mac_bsd
 
 ## Output
 When running with the following command

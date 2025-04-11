@@ -21,7 +21,6 @@ class Statistics:
         modes = [key for key, count in data_count.items() if count == max_count]
         return modes
 
-# Example usage
 data = [4, 5, 6, 7, 4, 3, 4]
 stats = Statistics(data)
 
